@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> Floret Design Studio is an e-commerce web application for a florest business in Sun Valley, Idaho.
+> Floret Design Studio is an e-commerce web application for a florest business in Sun Valley, Idaho.  The client requested full e-commerce apabilities, cart functionalities, swipe and pay pal.
 
 ### 🏠 [Homepage](www.floretdesignstudio.com)
 
@@ -39,7 +39,7 @@ npm run start
 ## Run tests
 
 ```sh
-npm run test
+none
 ```
 
 ## Author
